@@ -1,3 +1,6 @@
 # AccentASR_HumanPerception
 
-Data Info for paper: https://arxiv.org/abs/2104.04627
+Info for Accent-Combined Corpus Creation in paper: https://arxiv.org/abs/2104.04627
+
+
+
