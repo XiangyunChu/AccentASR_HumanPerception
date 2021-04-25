@@ -3,7 +3,7 @@
 Detailed Info for Accent-Combined Corpus Creation in paper: https://arxiv.org/abs/2104.04627
 
 
-## Three Source Accented Corpora:
+## Three Sources Accented Corpora:
 
 #### 1. Mozilla Common Voice corpus
 
