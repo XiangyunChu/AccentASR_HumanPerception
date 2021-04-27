@@ -17,7 +17,7 @@ From Part2 - Channel 0 of the corpus, we add all the speech data from 33 randoml
 
 #### 3. L2-Arctic corpus
 
-The entire L2-Arctic training set is included in Accent-Combined training data. Similarly, the entire L2-Arctic development set is included in Accent-Combined development data.
+The Arctic corpus includes recordings from 24 non-native speakers of English with balanced gender whose first language is either Hindi, Korean, Mandarin, Spanish, Arabic or Vietnamese. The total duration of the corpus is 27.1 hours. On average, each speaker recorded approximately one hour of speech, reading the same CMU’s ARCTIC prompts. The entire L2-Arctic training set is included in Accent-Combined training data. Similarly, the entire L2-Arctic development set is included in Accent-Combined development data.
 
 ## Table of Component:
 
