@@ -7,6 +7,8 @@ Detailed Info for Accent-Combined Corpus Creation in paper: https://arxiv.org/ab
 
 #### 1. Mozilla Common Voice corpus
 
+The Common Voice corpus contains 1,400 hours of voice samples from 42,000 contributors across 18 languages. Users specify their accents across categories such as US, Australia, England, Canada, Philippines, Hong Kong, India, Ireland, Malaysia, New Zealand, Scotland, Singapore, South Atlantic, African, Wales, and Bermuda. For this project, the data was subset to contain only the English language corpus, which has 39.5 hours of speech recordings in mp3 format. For accent study, the data were subset to exclude self-specified US accents.
+
 
 #### 2. Singapore English National Speech corpus
 
