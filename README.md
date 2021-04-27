@@ -11,7 +11,7 @@ The Common Voice corpus contains 1,400 hours of voice samples from 42,000 contri
 
 
 #### 2. Singapore English National Speech corpus
-
+The Singapore English corpus includes three parts with each containing 1000 hours of either read or conversational speech data.
 From Part2 - Channel 0 of the corpus, we add all the speech data from 33 randomly sampled speakers to our Accent-Combined training set. Similarly, we add all the speech data from 4 randomly sampled speakers (different to the ones selected for training set) to our Accent-Combined development set.
 
 
