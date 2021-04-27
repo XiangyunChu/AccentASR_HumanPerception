@@ -15,6 +15,7 @@ From Part2 - Channel 0 of the corpus, we add all the speech data from 33 randoml
 
 #### 3. L2-Arctic corpus
 
+The entire L2-Arctic training set is included in Accent-Combined training data. Similarly, the entire L2-Arctic development set is included in Accent-Combined development data.
 
 ## Table of Component:
 
